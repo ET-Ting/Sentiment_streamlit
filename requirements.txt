@@ -1,1 +1,1 @@
-python -m pip install snownlp
+python pip install snownlp
